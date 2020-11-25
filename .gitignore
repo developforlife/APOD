@@ -1,0 +1,7 @@
+cache
+Download
+venv
+.idea
+Model/__pycache__
+View/__pycache__
+sand.py
